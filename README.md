@@ -1,3 +1,8 @@
+### Примечание
+Коммит, где добавлял **MASK**, **MATCH** и **INSN** именно в `riscv-gnu-toolchain/riscv-binutils` перед установкой `riscv-gnu-toolchain` _(о нём чуть позже пойдет речь)_ можно найти здесь:    
+https://github.com/MaxGrishenko/riscv-binutils-gdb/commit/d008e51a4bc5593c38d1023f6724b041128b1178 
+
+
 # Добавление новых RISC-V ассемблерных команд в gcc
 В качестве примера добавим **AES: Round Instructions** для **RISC-V64**
 
